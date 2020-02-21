@@ -252,7 +252,7 @@ body{
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
-  top:25%;
+  top:50%;
   right: -32px;
   transform: translateY(-50%);
 }
